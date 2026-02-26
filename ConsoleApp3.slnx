@@ -1,0 +1,40 @@
+<Solution>
+  <Folder Name="/Collections/">
+    <Project Path="ListExample/ListExample.csproj" Id="43763c05-0fcc-40ba-a8a3-bc7fd2268b0d" />
+  </Folder>
+  <Folder Name="/Delegates/">
+    <Project Path="DelegateExample/DelegateExample.csproj" Id="cabae09d-a087-4804-ae30-7d627c2e895c" />
+    <Project Path="NewsArticle/NewsArticle.csproj" Id="94a9c72f-f803-4de0-94f2-7b5bd4cb2129" />
+  </Folder>
+  <Folder Name="/ExtensionMethods/">
+    <Project Path="ExtensionMethodExample/ExtensionMethodExample.csproj" Id="1378926e-2ab0-49fe-82e9-638ea23c7049" />
+  </Folder>
+  <Folder Name="/GenericClasses/">
+    <Project Path="ClassLibGenericClassExample/ClassLibGenericClassExample.csproj" Id="c3febdc2-34ef-4511-8ef7-948e5fa7c1e9" />
+    <Project Path="GenericClassesExample/GenericClassExample.csproj" Id="5960b3e6-7479-43a8-9bda-7574f25af06e" />
+  </Folder>
+  <Folder Name="/NullHandling/">
+    <Project Path="NullHandlingExample/NullHandlingExample.csproj" Id="f94e39b9-ab05-4f80-b2fc-0e968034fd1a" />
+    <Project Path="Practice/Practice.csproj" Id="8b505a12-398c-4138-9505-3b8899e27f3a" />
+  </Folder>
+  <Folder Name="/String, DateTime, Math/">
+    <Project Path="AddingDatesExample/AddingDatesExample.csproj" Id="3a46a212-2fdf-40f8-bb9f-a98b49e67ed8" />
+    <Project Path="CheckingStrings/CheckingStrings.csproj" Id="ebf7dd11-018d-46a5-8fab-250fc7d3f2b0" />
+    <Project Path="ConvertingString/ConvertingString.csproj" Id="853bf8ef-595d-4ddb-a7eb-192c7f7a3ea4" />
+    <Project Path="DateTimeExample/DateTimeExample.csproj" Id="aec4b25c-5b8f-4a04-9461-e58968c24643" />
+    <Project Path="DateTimeFormatsExample/DateTimeFormatsExample.csproj" Id="e8119bb3-6729-449c-94d9-00e9665c6af2" />
+    <Project Path="MathExample/MathExample.csproj" Id="e0f1574d-d873-43f4-9453-b2ee288af9b0" />
+    <Project Path="RegularExpressionsExample/RegularExpressionsExample.csproj" Id="05c66850-3861-4cd3-889e-0f3616924311" />
+    <Project Path="StringBuilder/StringBuilder.csproj" Id="3c432a18-b58f-4445-9a8c-07dc91e03021" />
+    <Project Path="StringExample/StringExample.csproj" Id="1605aa2b-ff1d-483d-8d1b-66c0264312b8" />
+    <Project Path="StringFormattingAndModify/StringFormattingAndModify.csproj" Id="378aa6b2-3456-47c1-b9b8-2e9f300bd5df" />
+    <Project Path="StringWithForLoop/StringWithForLoop.csproj" Id="18a3df1e-70ce-4780-b3a3-5460de307c55" />
+    <Project Path="SubtractDateExample/SubtractDateExample.csproj" Id="7070b141-af06-4115-8620-072b4f139dbd" />
+  </Folder>
+  <Folder Name="/Structures/">
+    <Project Path="ReadOnlyExample/ReadOnlyExample.csproj" Id="503ebc0f-1bc8-402f-b479-ce74971b2ac8" />
+    <Project Path="Structures/Structures.csproj" Id="e71003f3-14ff-40ff-a1bf-05cce2c4d86e" />
+  </Folder>
+  <Project Path="ArrayListExample/ArrayListExample.csproj" Id="b729f605-5a3d-4904-a487-8dc20f452f67" />
+  <Project Path="ConsoleApp3/ConsoleApp3.csproj" Id="12c83208-9e3c-46d8-9924-001d7c4c8917" />
+</Solution>

@@ -13,6 +13,22 @@
     <Project Path="ClassLibGenericClassExample/ClassLibGenericClassExample.csproj" Id="c3febdc2-34ef-4511-8ef7-948e5fa7c1e9" />
     <Project Path="GenericClassesExample/GenericClassExample.csproj" Id="5960b3e6-7479-43a8-9bda-7574f25af06e" />
   </Folder>
+  <Folder Name="/IO, Serialization, Encoding/">
+    <Project Path="ASCIIExmple/ASCIIExmple.csproj" Id="5e7f3e2b-07e8-4c7b-bdc2-8b69488343ad" />
+    <Project Path="BinaryNumbers/BinaryNumbers.csproj" Id="5b13fed3-d62f-456e-887b-fc05517bfeb7" />
+    <Project Path="DirectoryExample/DirectoryExample.csproj" Id="e5bd3973-c7a6-424b-a4dc-3cc085cddd0c" />
+    <Project Path="DirectoryInfo/DirectoryInfo.csproj" Id="9bdc74a2-8a98-4033-b455-32fb60a343ed" />
+    <Project Path="DirectoryInfoProperties/DirectoryInfoProperties.csproj" Id="2d783aaf-dd0c-46cc-b71f-c1dfe2acd4e2" />
+    <Project Path="DriveInfoExample/DriveInfoExample.csproj" Id="ef12bb8c-8917-43bb-8dbb-a1e6420957f3" />
+    <Project Path="DSRFile/DSRFile.csproj" Id="7d6bdfe9-2495-4714-8b1c-7600ab632da1" />
+    <Project Path="FileExample/FileExample.csproj" Id="cffce636-4f22-4a84-8085-cc038963492b" />
+    <Project Path="FileInfo/FileInfo.csproj" Id="db86ff45-38ca-4187-a20f-475a6fbae263" />
+    <Project Path="FileInfoPropertiesExample/FileInfoPropertiesExample.csproj" Id="8f43dc27-470b-4912-adf4-56f4d449dc11" />
+    <Project Path="FileStreamExample/FileStreamExample.csproj" Id="f6a6e5ea-1820-4048-b7c8-f307675e919d" />
+    <Project Path="HexadecimalNumbers/HexadecimalNumbers.csproj" Id="557ee5be-c873-43b2-bc5c-acb56b50b7ca" />
+    <Project Path="OctalNumbers/OctalNumbers.csproj" Id="3b468e11-64e6-4d4d-986d-d89939ba68e1" />
+    <Project Path="StreamWriterAndStreamReader/StreamWriterAndStreamReader.csproj" Id="c21f38e9-4547-42bf-a039-e4be3d097272" />
+  </Folder>
   <Folder Name="/NullHandling/">
     <Project Path="NullHandlingExample/NullHandlingExample.csproj" Id="f94e39b9-ab05-4f80-b2fc-0e968034fd1a" />
     <Project Path="Practice/Practice.csproj" Id="8b505a12-398c-4138-9505-3b8899e27f3a" />
